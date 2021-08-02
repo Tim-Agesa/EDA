@@ -1,4 +1,4 @@
-# Project Name: Exploratory Data Visualization
+# Project Name: Exploratory Data Analysis
 > Bay wheels Trip Data: Exploratory Data Analysis and Visualization!
 
 ## Table of contents
